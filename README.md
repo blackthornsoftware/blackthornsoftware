@@ -1,6 +1,8 @@
-# Black Thorn Software
-
 ![Black Thorn Software Logo](https://blackthornsoftware.com/logo-color.png)
+
+## Who we are and what we do.
+
+Our founding team spent decades in the large-scale construction industry, and was frustrated with the lack of visibility and transparency for every job. Black Thorn Software is a team of experienced software professionals that is focused on using software to solve these costly, real-world issues.
 
 ## Better visibility, better business. 
 
