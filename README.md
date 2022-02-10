@@ -1,4 +1,4 @@
-![Black Thorn Software Logo](https://blackthornsoftware.com/logo-color.png)
+[![Black Thorn Software Logo](https://blackthornsoftware.com/logo-color-gray-bg.png)](https://blackthornsoftware.com/)
 
 ## Who we are and what we do.
 
